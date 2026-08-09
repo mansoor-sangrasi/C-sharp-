@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\bin\Debug\net10.0\01_Variable.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\bin\Debug\net10.0\01_Variable.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\bin\Debug\net10.0\01_Variable.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\bin\Debug\net10.0\01_Variable.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\bin\Debug\net10.0\01_Variable.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\obj\Debug\net10.0\01_Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\obj\Debug\net10.0\01_Variable.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\obj\Debug\net10.0\01_Variable.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\obj\Debug\net10.0\01_Variable.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\obj\Debug\net10.0\01_Variable.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\obj\Debug\net10.0\refint\01_Variable.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\obj\Debug\net10.0\01_Variable.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\obj\Debug\net10.0\01_Variable.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\01_Variable\obj\Debug\net10.0\ref\01_Variable.dll
