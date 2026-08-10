@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\bin\Debug\net10.0\02_userInput.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\bin\Debug\net10.0\02_userInput.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\bin\Debug\net10.0\02_userInput.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\bin\Debug\net10.0\02_userInput.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\bin\Debug\net10.0\02_userInput.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\obj\Debug\net10.0\02_userInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\obj\Debug\net10.0\02_userInput.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\obj\Debug\net10.0\02_userInput.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\obj\Debug\net10.0\02_userInput.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\obj\Debug\net10.0\02_userInput.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\obj\Debug\net10.0\refint\02_userInput.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\obj\Debug\net10.0\02_userInput.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\obj\Debug\net10.0\02_userInput.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\02_userInput\obj\Debug\net10.0\ref\02_userInput.dll
