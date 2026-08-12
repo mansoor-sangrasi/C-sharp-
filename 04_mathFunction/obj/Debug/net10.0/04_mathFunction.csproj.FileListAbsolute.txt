@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\bin\Debug\net10.0\04_mathFunction.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\bin\Debug\net10.0\04_mathFunction.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\bin\Debug\net10.0\04_mathFunction.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\bin\Debug\net10.0\04_mathFunction.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\bin\Debug\net10.0\04_mathFunction.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\obj\Debug\net10.0\04_mathFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\obj\Debug\net10.0\04_mathFunction.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\obj\Debug\net10.0\04_mathFunction.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\obj\Debug\net10.0\04_mathFunction.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\obj\Debug\net10.0\04_mathFunction.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\obj\Debug\net10.0\refint\04_mathFunction.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\obj\Debug\net10.0\04_mathFunction.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\obj\Debug\net10.0\04_mathFunction.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\04_mathFunction\obj\Debug\net10.0\ref\04_mathFunction.dll
