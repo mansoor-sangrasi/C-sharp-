@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\bin\Debug\net10.0\05_randomNumber.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\bin\Debug\net10.0\05_randomNumber.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\bin\Debug\net10.0\05_randomNumber.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\bin\Debug\net10.0\05_randomNumber.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\bin\Debug\net10.0\05_randomNumber.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\obj\Debug\net10.0\05_randomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\obj\Debug\net10.0\05_randomNumber.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\obj\Debug\net10.0\05_randomNumber.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\obj\Debug\net10.0\05_randomNumber.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\obj\Debug\net10.0\05_randomNumber.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\obj\Debug\net10.0\refint\05_randomNumber.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\obj\Debug\net10.0\05_randomNumber.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\obj\Debug\net10.0\05_randomNumber.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\05_randomNumber\obj\Debug\net10.0\ref\05_randomNumber.dll
