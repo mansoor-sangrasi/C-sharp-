@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\bin\Debug\net10.0\07_conditions.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\bin\Debug\net10.0\07_conditions.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\bin\Debug\net10.0\07_conditions.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\bin\Debug\net10.0\07_conditions.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\bin\Debug\net10.0\07_conditions.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\obj\Debug\net10.0\07_conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\obj\Debug\net10.0\07_conditions.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\obj\Debug\net10.0\07_conditions.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\obj\Debug\net10.0\07_conditions.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\obj\Debug\net10.0\07_conditions.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\obj\Debug\net10.0\refint\07_conditions.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\obj\Debug\net10.0\07_conditions.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\obj\Debug\net10.0\07_conditions.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\07_conditions\obj\Debug\net10.0\ref\07_conditions.dll
