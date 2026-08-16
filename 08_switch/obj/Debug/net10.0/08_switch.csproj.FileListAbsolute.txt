@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\bin\Debug\net10.0\08_switch.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\bin\Debug\net10.0\08_switch.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\bin\Debug\net10.0\08_switch.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\bin\Debug\net10.0\08_switch.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\bin\Debug\net10.0\08_switch.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\obj\Debug\net10.0\08_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\obj\Debug\net10.0\08_switch.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\obj\Debug\net10.0\08_switch.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\obj\Debug\net10.0\08_switch.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\obj\Debug\net10.0\08_switch.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\obj\Debug\net10.0\refint\08_switch.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\obj\Debug\net10.0\08_switch.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\obj\Debug\net10.0\08_switch.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\08_switch\obj\Debug\net10.0\ref\08_switch.dll
