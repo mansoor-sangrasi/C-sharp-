@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\bin\Debug\net10.0\09_logicalOperator.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\bin\Debug\net10.0\09_logicalOperator.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\bin\Debug\net10.0\09_logicalOperator.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\bin\Debug\net10.0\09_logicalOperator.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\bin\Debug\net10.0\09_logicalOperator.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\obj\Debug\net10.0\09_logicalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\obj\Debug\net10.0\09_logicalOperator.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\obj\Debug\net10.0\09_logicalOperator.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\obj\Debug\net10.0\09_logicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\obj\Debug\net10.0\09_logicalOperator.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\obj\Debug\net10.0\refint\09_logicalOperator.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\obj\Debug\net10.0\09_logicalOperator.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\obj\Debug\net10.0\09_logicalOperator.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\09_logicalOperator\obj\Debug\net10.0\ref\09_logicalOperator.dll
