@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\obj\Debug\net10.0\11_forLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\obj\Debug\net10.0\11_forLoop.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\obj\Debug\net10.0\11_forLoop.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\obj\Debug\net10.0\11_forLoop.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\bin\Debug\net10.0\11_forLoop.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\bin\Debug\net10.0\11_forLoop.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\bin\Debug\net10.0\11_forLoop.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\bin\Debug\net10.0\11_forLoop.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\bin\Debug\net10.0\11_forLoop.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\obj\Debug\net10.0\11_forLoop.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\obj\Debug\net10.0\refint\11_forLoop.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\obj\Debug\net10.0\11_forLoop.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\obj\Debug\net10.0\11_forLoop.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\11_forLoop\obj\Debug\net10.0\ref\11_forLoop.dll
