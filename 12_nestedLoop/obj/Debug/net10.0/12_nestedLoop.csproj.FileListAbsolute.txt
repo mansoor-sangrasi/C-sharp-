@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\bin\Debug\net10.0\12_nestedLoop.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\bin\Debug\net10.0\12_nestedLoop.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\bin\Debug\net10.0\12_nestedLoop.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\bin\Debug\net10.0\12_nestedLoop.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\bin\Debug\net10.0\12_nestedLoop.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\obj\Debug\net10.0\12_nestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\obj\Debug\net10.0\12_nestedLoop.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\obj\Debug\net10.0\12_nestedLoop.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\obj\Debug\net10.0\12_nestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\obj\Debug\net10.0\12_nestedLoop.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\obj\Debug\net10.0\refint\12_nestedLoop.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\obj\Debug\net10.0\12_nestedLoop.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\obj\Debug\net10.0\12_nestedLoop.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\12_nestedLoop\obj\Debug\net10.0\ref\12_nestedLoop.dll
