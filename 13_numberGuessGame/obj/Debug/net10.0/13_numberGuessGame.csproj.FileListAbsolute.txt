@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\bin\Debug\net10.0\13_numberGuessGame.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\bin\Debug\net10.0\13_numberGuessGame.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\bin\Debug\net10.0\13_numberGuessGame.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\bin\Debug\net10.0\13_numberGuessGame.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\bin\Debug\net10.0\13_numberGuessGame.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\obj\Debug\net10.0\13_numberGuessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\obj\Debug\net10.0\13_numberGuessGame.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\obj\Debug\net10.0\13_numberGuessGame.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\obj\Debug\net10.0\13_numberGuessGame.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\obj\Debug\net10.0\13_numberGuessGame.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\obj\Debug\net10.0\refint\13_numberGuessGame.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\obj\Debug\net10.0\13_numberGuessGame.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\obj\Debug\net10.0\13_numberGuessGame.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\13_numberGuessGame\obj\Debug\net10.0\ref\13_numberGuessGame.dll
