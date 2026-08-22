@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\bin\Debug\net10.0\14_rock_paper_scissorGame.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\bin\Debug\net10.0\14_rock_paper_scissorGame.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\bin\Debug\net10.0\14_rock_paper_scissorGame.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\bin\Debug\net10.0\14_rock_paper_scissorGame.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\bin\Debug\net10.0\14_rock_paper_scissorGame.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\obj\Debug\net10.0\14_rock_paper_scissorGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\obj\Debug\net10.0\14_rock_paper_scissorGame.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\obj\Debug\net10.0\14_rock_paper_scissorGame.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\obj\Debug\net10.0\14_rock_paper_scissorGame.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\obj\Debug\net10.0\14_rock_paper_scissorGame.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\obj\Debug\net10.0\refint\14_rock_paper_scissorGame.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\obj\Debug\net10.0\14_rock_paper_scissorGame.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\obj\Debug\net10.0\14_rock_paper_scissorGame.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\14_rock_paper_scissorGame\obj\Debug\net10.0\ref\14_rock_paper_scissorGame.dll
