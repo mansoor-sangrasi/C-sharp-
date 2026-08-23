@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\bin\Debug\net10.0\15_calculatorProgram.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\bin\Debug\net10.0\15_calculatorProgram.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\bin\Debug\net10.0\15_calculatorProgram.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\bin\Debug\net10.0\15_calculatorProgram.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\bin\Debug\net10.0\15_calculatorProgram.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\obj\Debug\net10.0\15_calculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\obj\Debug\net10.0\15_calculatorProgram.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\obj\Debug\net10.0\15_calculatorProgram.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\obj\Debug\net10.0\15_calculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\obj\Debug\net10.0\15_calculatorProgram.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\obj\Debug\net10.0\refint\15_calculatorProgram.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\obj\Debug\net10.0\15_calculatorProgram.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\obj\Debug\net10.0\15_calculatorProgram.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\15_calculatorProgram\obj\Debug\net10.0\ref\15_calculatorProgram.dll
