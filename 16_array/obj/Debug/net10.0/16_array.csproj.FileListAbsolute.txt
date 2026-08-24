@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\bin\Debug\net10.0\16_array.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\bin\Debug\net10.0\16_array.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\bin\Debug\net10.0\16_array.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\bin\Debug\net10.0\16_array.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\bin\Debug\net10.0\16_array.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\obj\Debug\net10.0\16_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\obj\Debug\net10.0\16_array.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\obj\Debug\net10.0\16_array.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\obj\Debug\net10.0\16_array.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\obj\Debug\net10.0\16_array.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\obj\Debug\net10.0\refint\16_array.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\obj\Debug\net10.0\16_array.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\obj\Debug\net10.0\16_array.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\16_array\obj\Debug\net10.0\ref\16_array.dll
