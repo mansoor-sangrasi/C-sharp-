@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\bin\Debug\net10.0\17_forEachLoop.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\bin\Debug\net10.0\17_forEachLoop.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\bin\Debug\net10.0\17_forEachLoop.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\bin\Debug\net10.0\17_forEachLoop.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\bin\Debug\net10.0\17_forEachLoop.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\obj\Debug\net10.0\17_forEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\obj\Debug\net10.0\17_forEachLoop.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\obj\Debug\net10.0\17_forEachLoop.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\obj\Debug\net10.0\17_forEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\obj\Debug\net10.0\17_forEachLoop.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\obj\Debug\net10.0\refint\17_forEachLoop.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\obj\Debug\net10.0\17_forEachLoop.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\obj\Debug\net10.0\17_forEachLoop.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\17_forEachLoop\obj\Debug\net10.0\ref\17_forEachLoop.dll
