@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\bin\Debug\net10.0\18_function.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\bin\Debug\net10.0\18_function.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\bin\Debug\net10.0\18_function.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\bin\Debug\net10.0\18_function.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\bin\Debug\net10.0\18_function.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_function.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_function.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_function.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_function.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\refint\18_function.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_function.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_function.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\ref\18_function.dll
