@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\bin\Debug\net10.0\19_returnFunction.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\bin\Debug\net10.0\19_returnFunction.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\bin\Debug\net10.0\19_returnFunction.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\bin\Debug\net10.0\19_returnFunction.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\bin\Debug\net10.0\19_returnFunction.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\obj\Debug\net10.0\19_returnFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\obj\Debug\net10.0\19_returnFunction.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\obj\Debug\net10.0\19_returnFunction.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\obj\Debug\net10.0\19_returnFunction.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\obj\Debug\net10.0\19_returnFunction.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\obj\Debug\net10.0\refint\19_returnFunction.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\obj\Debug\net10.0\19_returnFunction.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\obj\Debug\net10.0\19_returnFunction.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\19_returnFunction\obj\Debug\net10.0\ref\19_returnFunction.dll
