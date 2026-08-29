@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\bin\Debug\net10.0\21_paramsKeyword.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\bin\Debug\net10.0\21_paramsKeyword.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\bin\Debug\net10.0\21_paramsKeyword.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\bin\Debug\net10.0\21_paramsKeyword.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\bin\Debug\net10.0\21_paramsKeyword.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\obj\Debug\net10.0\21_paramsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\obj\Debug\net10.0\21_paramsKeyword.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\obj\Debug\net10.0\21_paramsKeyword.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\obj\Debug\net10.0\21_paramsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\obj\Debug\net10.0\21_paramsKeyword.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\obj\Debug\net10.0\refint\21_paramsKeyword.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\obj\Debug\net10.0\21_paramsKeyword.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\obj\Debug\net10.0\21_paramsKeyword.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\21_paramsKeyword\obj\Debug\net10.0\ref\21_paramsKeyword.dll
