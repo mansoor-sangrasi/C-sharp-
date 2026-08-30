@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\bin\Debug\net10.0\22_exceptionHandling.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\bin\Debug\net10.0\22_exceptionHandling.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\bin\Debug\net10.0\22_exceptionHandling.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\bin\Debug\net10.0\22_exceptionHandling.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\bin\Debug\net10.0\22_exceptionHandling.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\obj\Debug\net10.0\22_exceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\obj\Debug\net10.0\22_exceptionHandling.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\obj\Debug\net10.0\22_exceptionHandling.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\obj\Debug\net10.0\22_exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\obj\Debug\net10.0\22_exceptionHandling.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\obj\Debug\net10.0\refint\22_exceptionHandling.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\obj\Debug\net10.0\22_exceptionHandling.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\obj\Debug\net10.0\22_exceptionHandling.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\22_exceptionHandling\obj\Debug\net10.0\ref\22_exceptionHandling.dll
