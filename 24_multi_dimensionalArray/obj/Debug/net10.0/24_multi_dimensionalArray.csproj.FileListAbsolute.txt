@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\bin\Debug\net10.0\24_multi_dimensionalArray.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\bin\Debug\net10.0\24_multi_dimensionalArray.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\bin\Debug\net10.0\24_multi_dimensionalArray.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\bin\Debug\net10.0\24_multi_dimensionalArray.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\bin\Debug\net10.0\24_multi_dimensionalArray.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\obj\Debug\net10.0\24_multi_dimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\obj\Debug\net10.0\24_multi_dimensionalArray.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\obj\Debug\net10.0\24_multi_dimensionalArray.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\obj\Debug\net10.0\24_multi_dimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\obj\Debug\net10.0\24_multi_dimensionalArray.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\obj\Debug\net10.0\refint\24_multi_dimensionalArray.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\obj\Debug\net10.0\24_multi_dimensionalArray.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\obj\Debug\net10.0\24_multi_dimensionalArray.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\24_multi_dimensionalArray\obj\Debug\net10.0\ref\24_multi_dimensionalArray.dll
