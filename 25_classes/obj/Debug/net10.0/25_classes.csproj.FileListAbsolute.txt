@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\bin\Debug\net10.0\25_classes.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\bin\Debug\net10.0\25_classes.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\bin\Debug\net10.0\25_classes.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\bin\Debug\net10.0\25_classes.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\bin\Debug\net10.0\25_classes.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\obj\Debug\net10.0\25_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\obj\Debug\net10.0\25_classes.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\obj\Debug\net10.0\25_classes.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\obj\Debug\net10.0\25_classes.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\obj\Debug\net10.0\25_classes.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\obj\Debug\net10.0\refint\25_classes.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\obj\Debug\net10.0\25_classes.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\obj\Debug\net10.0\25_classes.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\25_classes\obj\Debug\net10.0\ref\25_classes.dll
