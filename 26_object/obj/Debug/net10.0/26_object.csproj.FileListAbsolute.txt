@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\bin\Debug\net10.0\26_object.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\bin\Debug\net10.0\26_object.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\bin\Debug\net10.0\26_object.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\bin\Debug\net10.0\26_object.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\bin\Debug\net10.0\26_object.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\obj\Debug\net10.0\26_object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\obj\Debug\net10.0\26_object.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\obj\Debug\net10.0\26_object.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\obj\Debug\net10.0\26_object.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\obj\Debug\net10.0\26_object.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\obj\Debug\net10.0\refint\26_object.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\obj\Debug\net10.0\26_object.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\obj\Debug\net10.0\26_object.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\26_object\obj\Debug\net10.0\ref\26_object.dll
