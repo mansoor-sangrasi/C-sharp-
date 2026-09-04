@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\bin\Debug\net10.0\27_constructor.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\bin\Debug\net10.0\27_constructor.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\bin\Debug\net10.0\27_constructor.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\bin\Debug\net10.0\27_constructor.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\bin\Debug\net10.0\27_constructor.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\obj\Debug\net10.0\27_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\obj\Debug\net10.0\27_constructor.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\obj\Debug\net10.0\27_constructor.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\obj\Debug\net10.0\27_constructor.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\obj\Debug\net10.0\27_constructor.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\obj\Debug\net10.0\refint\27_constructor.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\obj\Debug\net10.0\27_constructor.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\obj\Debug\net10.0\27_constructor.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\27_constructor\obj\Debug\net10.0\ref\27_constructor.dll
