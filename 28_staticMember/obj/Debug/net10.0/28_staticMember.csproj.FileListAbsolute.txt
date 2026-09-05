@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\bin\Debug\net10.0\28_staticMember.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\bin\Debug\net10.0\28_staticMember.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\bin\Debug\net10.0\28_staticMember.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\bin\Debug\net10.0\28_staticMember.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\bin\Debug\net10.0\28_staticMember.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\obj\Debug\net10.0\28_staticMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\obj\Debug\net10.0\28_staticMember.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\obj\Debug\net10.0\28_staticMember.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\obj\Debug\net10.0\28_staticMember.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\obj\Debug\net10.0\28_staticMember.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\obj\Debug\net10.0\refint\28_staticMember.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\obj\Debug\net10.0\28_staticMember.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\obj\Debug\net10.0\28_staticMember.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\28_staticMember\obj\Debug\net10.0\ref\28_staticMember.dll
