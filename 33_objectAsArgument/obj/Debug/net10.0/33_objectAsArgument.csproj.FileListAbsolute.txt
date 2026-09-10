@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\bin\Debug\net10.0\33_objectAsArgument.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\bin\Debug\net10.0\33_objectAsArgument.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\bin\Debug\net10.0\33_objectAsArgument.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\bin\Debug\net10.0\33_objectAsArgument.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\bin\Debug\net10.0\33_objectAsArgument.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\obj\Debug\net10.0\33_objectAsArgument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\obj\Debug\net10.0\33_objectAsArgument.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\obj\Debug\net10.0\33_objectAsArgument.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\obj\Debug\net10.0\33_objectAsArgument.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\obj\Debug\net10.0\33_objectAsArgument.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\obj\Debug\net10.0\refint\33_objectAsArgument.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\obj\Debug\net10.0\33_objectAsArgument.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\obj\Debug\net10.0\33_objectAsArgument.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\33_objectAsArgument\obj\Debug\net10.0\ref\33_objectAsArgument.dll
