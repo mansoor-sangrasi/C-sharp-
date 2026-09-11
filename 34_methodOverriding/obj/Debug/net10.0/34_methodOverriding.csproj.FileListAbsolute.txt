@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\bin\Debug\net10.0\34_methodOverriding.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\bin\Debug\net10.0\34_methodOverriding.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\bin\Debug\net10.0\34_methodOverriding.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\bin\Debug\net10.0\34_methodOverriding.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\bin\Debug\net10.0\34_methodOverriding.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\obj\Debug\net10.0\34_methodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\obj\Debug\net10.0\34_methodOverriding.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\obj\Debug\net10.0\34_methodOverriding.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\obj\Debug\net10.0\34_methodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\obj\Debug\net10.0\34_methodOverriding.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\obj\Debug\net10.0\refint\34_methodOverriding.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\obj\Debug\net10.0\34_methodOverriding.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\obj\Debug\net10.0\34_methodOverriding.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\34_methodOverriding\obj\Debug\net10.0\ref\34_methodOverriding.dll
