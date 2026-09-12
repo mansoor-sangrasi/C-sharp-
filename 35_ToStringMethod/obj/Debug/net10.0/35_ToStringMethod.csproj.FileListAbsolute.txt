@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\bin\Debug\net10.0\35_ToStringMethod.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\bin\Debug\net10.0\35_ToStringMethod.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\bin\Debug\net10.0\35_ToStringMethod.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\bin\Debug\net10.0\35_ToStringMethod.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\bin\Debug\net10.0\35_ToStringMethod.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\obj\Debug\net10.0\35_ToStringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\obj\Debug\net10.0\35_ToStringMethod.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\obj\Debug\net10.0\35_ToStringMethod.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\obj\Debug\net10.0\35_ToStringMethod.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\obj\Debug\net10.0\35_ToStringMethod.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\obj\Debug\net10.0\refint\35_ToStringMethod.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\obj\Debug\net10.0\35_ToStringMethod.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\obj\Debug\net10.0\35_ToStringMethod.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\35_ToStringMethod\obj\Debug\net10.0\ref\35_ToStringMethod.dll
