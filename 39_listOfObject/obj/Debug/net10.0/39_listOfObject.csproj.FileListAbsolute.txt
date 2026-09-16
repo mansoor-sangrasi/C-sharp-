@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\bin\Debug\net10.0\39_listOfObject.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\bin\Debug\net10.0\39_listOfObject.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\bin\Debug\net10.0\39_listOfObject.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\bin\Debug\net10.0\39_listOfObject.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\bin\Debug\net10.0\39_listOfObject.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\obj\Debug\net10.0\39_listOfObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\obj\Debug\net10.0\39_listOfObject.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\obj\Debug\net10.0\39_listOfObject.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\obj\Debug\net10.0\39_listOfObject.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\obj\Debug\net10.0\39_listOfObject.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\obj\Debug\net10.0\refint\39_listOfObject.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\obj\Debug\net10.0\39_listOfObject.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\obj\Debug\net10.0\39_listOfObject.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\39_listOfObject\obj\Debug\net10.0\ref\39_listOfObject.dll
