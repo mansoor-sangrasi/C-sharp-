@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\bin\Debug\net10.0\40_getters&setters.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\bin\Debug\net10.0\40_getters&setters.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\bin\Debug\net10.0\40_getters&setters.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\bin\Debug\net10.0\40_getters&setters.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\bin\Debug\net10.0\40_getters&setters.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\obj\Debug\net10.0\40_getters&setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\obj\Debug\net10.0\40_getters&setters.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\obj\Debug\net10.0\40_getters&setters.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\obj\Debug\net10.0\40_getters&setters.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\obj\Debug\net10.0\40_getters&setters.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\obj\Debug\net10.0\refint\40_getters&setters.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\obj\Debug\net10.0\40_getters&setters.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\obj\Debug\net10.0\40_getters&setters.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\40_getters&setters\obj\Debug\net10.0\ref\40_getters&setters.dll
