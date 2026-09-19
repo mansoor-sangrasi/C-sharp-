@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\bin\Debug\net10.0\42_enumClass.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\bin\Debug\net10.0\42_enumClass.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\bin\Debug\net10.0\42_enumClass.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\bin\Debug\net10.0\42_enumClass.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\bin\Debug\net10.0\42_enumClass.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\obj\Debug\net10.0\42_enumClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\obj\Debug\net10.0\42_enumClass.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\obj\Debug\net10.0\42_enumClass.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\obj\Debug\net10.0\42_enumClass.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\obj\Debug\net10.0\42_enumClass.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\obj\Debug\net10.0\refint\42_enumClass.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\obj\Debug\net10.0\42_enumClass.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\obj\Debug\net10.0\42_enumClass.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\42_enumsClass\obj\Debug\net10.0\ref\42_enumClass.dll
