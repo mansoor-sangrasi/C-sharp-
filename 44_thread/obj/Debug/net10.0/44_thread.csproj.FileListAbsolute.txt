@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\bin\Debug\net10.0\44_thread.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\bin\Debug\net10.0\44_thread.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\bin\Debug\net10.0\44_thread.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\bin\Debug\net10.0\44_thread.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\bin\Debug\net10.0\44_thread.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\obj\Debug\net10.0\44_thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\obj\Debug\net10.0\44_thread.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\obj\Debug\net10.0\44_thread.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\obj\Debug\net10.0\44_thread.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\obj\Debug\net10.0\44_thread.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\obj\Debug\net10.0\refint\44_thread.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\obj\Debug\net10.0\44_thread.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\obj\Debug\net10.0\44_thread.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\44_thread\obj\Debug\net10.0\ref\44_thread.dll
