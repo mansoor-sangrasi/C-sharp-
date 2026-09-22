@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\bin\Debug\net10.0\45_delegate.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\bin\Debug\net10.0\45_delegate.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\bin\Debug\net10.0\45_delegate.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\bin\Debug\net10.0\45_delegate.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\bin\Debug\net10.0\45_delegate.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\obj\Debug\net10.0\45_delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\obj\Debug\net10.0\45_delegate.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\obj\Debug\net10.0\45_delegate.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\obj\Debug\net10.0\45_delegate.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\obj\Debug\net10.0\45_delegate.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\obj\Debug\net10.0\refint\45_delegate.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\obj\Debug\net10.0\45_delegate.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\obj\Debug\net10.0\45_delegate.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\45_delegate\obj\Debug\net10.0\ref\45_delegate.dll
