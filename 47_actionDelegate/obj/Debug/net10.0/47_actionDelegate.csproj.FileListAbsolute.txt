@@ -1,0 +1,14 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\bin\Debug\net10.0\47_actionDelegate.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\bin\Debug\net10.0\47_actionDelegate.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\bin\Debug\net10.0\47_actionDelegate.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\bin\Debug\net10.0\47_actionDelegate.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\bin\Debug\net10.0\47_actionDelegate.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\obj\Debug\net10.0\47_actionDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\obj\Debug\net10.0\47_actionDelegate.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\obj\Debug\net10.0\47_actionDelegate.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\obj\Debug\net10.0\47_actionDelegate.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\obj\Debug\net10.0\47_actionDelegate.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\obj\Debug\net10.0\refint\47_actionDelegate.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\obj\Debug\net10.0\47_actionDelegate.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\obj\Debug\net10.0\47_actionDelegate.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\47_actionDelegate\obj\Debug\net10.0\ref\47_actionDelegate.dll
