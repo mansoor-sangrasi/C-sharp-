@@ -9,9 +9,11 @@
 
             String name = "Mansoor Ahmed";
             String name1 = "Abdul Kareem";
+            String name2 = "Tufail Ahmed";
 
             singHappyBirthDay(name);
             singHappyBirthDay(name1);
+            singHappyBirthDay(name2);
         }
 
         static void singHappyBirthDay (String name)

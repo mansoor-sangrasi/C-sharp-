@@ -1,0 +1,15 @@
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\bin\Debug\net10.0\18_voidFunction.exe
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\bin\Debug\net10.0\18_voidFunction.deps.json
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\bin\Debug\net10.0\18_voidFunction.runtimeconfig.json
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\bin\Debug\net10.0\18_voidFunction.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\bin\Debug\net10.0\18_voidFunction.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_voidFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_voidFunction.AssemblyInfoInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_voidFunction.AssemblyInfo.cs
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_voidFunction.csproj.CoreCompileInputs.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_voidFunction.sourcelink.json
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_voidFunction.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\refint\18_voidFunction.dll
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_voidFunction.pdb
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\18_voidFunction.genruntimeconfig.cache
+C:\Users\manso\OneDrive\Desktop\C#-series\18_function\obj\Debug\net10.0\ref\18_voidFunction.dll
