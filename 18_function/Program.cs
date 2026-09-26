@@ -10,10 +10,12 @@
             String name = "Mansoor Ahmed";
             String name1 = "Abdul Kareem";
             String name2 = "Tufail Ahmed";
+            String name3 = "Tofique Ahmed";
 
             singHappyBirthDay(name);
             singHappyBirthDay(name1);
             singHappyBirthDay(name2);
+            singHappyBirthDay(name3);
         }
 
         static void singHappyBirthDay (String name)
