@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("18_voidFunction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9b6c4198ec51abf6ac90ed9fb8a4558f361460c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45dd92cc3c410349981f08b2cce137adce6aac56")]
 [assembly: System.Reflection.AssemblyProductAttribute("18_voidFunction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("18_voidFunction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

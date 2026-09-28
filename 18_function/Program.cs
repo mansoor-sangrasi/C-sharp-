@@ -26,5 +26,9 @@
             Console.WriteLine(name);
 
         }
+        static void greeting()
+        {
+            Console.WriteLine("Welcome");
+        }
     }
 }
