@@ -12,14 +12,18 @@
             String name2 = "Tufail Ahmed";
             String name3 = "Tofique Ahmed";
             String name4 = "Mehtab Ali";
-            
 
+            printMessage();
             singHappyBirthDay(name);
             singHappyBirthDay(name1);
             singHappyBirthDay(name2);
             singHappyBirthDay(name3);
             singHappyBirthDay(name4);
             greeting();
+        }
+        static void printMessage()
+        {
+            Console.WriteLine("Hello World");
         }
 
         static void singHappyBirthDay (String name)
