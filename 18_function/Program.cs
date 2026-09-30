@@ -14,16 +14,23 @@
             String name4 = "Mehtab Ali";
 
             printMessage();
+            printName("Muhammad Siddique");
             singHappyBirthDay(name);
             singHappyBirthDay(name1);
             singHappyBirthDay(name2);
             singHappyBirthDay(name3);
             singHappyBirthDay(name4);
             greeting();
+
+            Console.ReadKey();
         }
         static void printMessage()
         {
             Console.WriteLine("Hello World");
+        }
+        static void printName(string name)
+        {
+            Console.WriteLine(name);
         }
 
         static void singHappyBirthDay (String name)
