@@ -15,6 +15,7 @@
 
             printMessage();
             printName("Muhammad Siddique");
+            printName("Abdul Kareem");
             singHappyBirthDay(name);
             singHappyBirthDay(name1);
             singHappyBirthDay(name2);
