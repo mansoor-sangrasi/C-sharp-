@@ -20,6 +20,7 @@
             printName("Huzaifa");
             printName("Bilal");
             printName("Abid Ali");  
+            printName("Nisar");
             singHappyBirthDay(name);
             singHappyBirthDay(name1);
             singHappyBirthDay(name2);
