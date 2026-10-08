@@ -21,7 +21,8 @@
             printName("Bilal");
             printName("Abid Ali");  
             printName("Nisar");
-            printName("Shahbaz");   
+            printName("Shahbaz"); 
+            printName("Muhammad Hafeez");   
             singHappyBirthDay(name);
             singHappyBirthDay(name1);
             singHappyBirthDay(name2);
