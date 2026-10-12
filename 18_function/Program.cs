@@ -25,7 +25,8 @@
             printName("Muhammad Hafeez");   
             printName("Suleman");       
             printName("Abdul Qayyum");
-            printName("Waqar Ahmed");   
+            printName("Waqar Ahmed");
+            printName("Ali");
             singHappyBirthDay(name);
             singHappyBirthDay(name1);
             singHappyBirthDay(name2);
