@@ -30,6 +30,7 @@
             printName("Muhammad");
             printName("Mehtab Ahmed");
             printName("Danish Ali");
+            printName("Jan Muhammad");
             singHappyBirthDay(name);
             singHappyBirthDay(name1);
             singHappyBirthDay(name2);
