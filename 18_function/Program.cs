@@ -12,6 +12,7 @@
             String name2 = "Tufail Ahmed";
             String name3 = "Tofique Ahmed";
             String name4 = "Mehtab Ali";
+            String name5 = "Muhammad";
 
             printMessage();
             printName("Muhammad Siddique");
