@@ -34,8 +34,9 @@
             printName("Jan Muhammad");
             printName("Ghaffar");
             printName("Wajid Ali");
-            printName("Qamar"); 
+            printName("Qamar");
             printName("Aumbia Noor");
+            printName("Ali Tauseef");
             singHappyBirthDay(name);
             singHappyBirthDay(name1);
             singHappyBirthDay(name2);
