@@ -20,6 +20,7 @@
             string name10 = "Muhammad Hafeez";      
             string name11 = "Suleman";
             string name12 = "Abdul Qayyum";
+            string name13 = "Waqar Ahmed";
 
             printMessage();
             printName("Muhammad Siddique");
