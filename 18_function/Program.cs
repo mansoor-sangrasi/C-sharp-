@@ -23,6 +23,7 @@
             string name13 = "Waqar Ahmed";
             string name14 = "Mustafa";
 
+
             printMessage();
             printName("Muhammad Siddique");
             printName("Abdul Kareem");
@@ -46,6 +47,8 @@
             printName("Qamar");
             printName("Aumbia Noor");
             printName("Ali Tauseef");
+            printName("Aijaz Ahmed");
+
             singHappyBirthDay(name);
             singHappyBirthDay(name1);
             singHappyBirthDay(name2);
