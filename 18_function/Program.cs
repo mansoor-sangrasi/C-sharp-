@@ -48,7 +48,7 @@
             printName("Aumbia Noor");
             printName("Ali Tauseef");
             printName("Aijaz Ahmed");
-
+            printName("Aftab Ahmed");
             singHappyBirthDay(name);
             singHappyBirthDay(name1);
             singHappyBirthDay(name2);
