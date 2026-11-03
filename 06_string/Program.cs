@@ -26,6 +26,9 @@
             String phoneNumber = "@92371/1942571";
             phoneNumber = phoneNumber.Replace("@", "+");
             phoneNumber = phoneNumber.Replace("/", "-");
+            phoneNumber = phoneNumber.Replace("2", "5");
+            phoneNumber = phoneNumber.Replace("9", "10");
+
             Console.WriteLine(phoneNumber);
 
             String userName = fullName.Insert(0, "@");
