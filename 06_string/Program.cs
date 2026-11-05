@@ -29,6 +29,7 @@
             phoneNumber = phoneNumber.Replace("2", "5");
             phoneNumber = phoneNumber.Replace("9", "10");
             phoneNumber = phoneNumber.Replace("1", "11");
+            phoneNumber = phoneNumber.Replace("1", "20");
 
 
             Console.WriteLine(phoneNumber);
