@@ -37,6 +37,7 @@
             phoneNumber = phoneNumber.Replace("4", "12");
             phoneNumber = phoneNumber.Replace("4", "112");
             phoneNumber = phoneNumber.Replace("9", "122");
+            phoneNumber = phoneNumber.Replace("5", "71");
 
 
 
