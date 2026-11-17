@@ -40,6 +40,8 @@
             phoneNumber = phoneNumber.Replace("5", "71");
             phoneNumber = phoneNumber.Replace("5", "2571");
             phoneNumber = phoneNumber.Replace("2", "2572");
+            phoneNumber = phoneNumber.Replace("2", "2573");
+
 
 
 
