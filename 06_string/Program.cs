@@ -42,7 +42,7 @@
             phoneNumber = phoneNumber.Replace("2", "2572");
             phoneNumber = phoneNumber.Replace("2", "2573");
             phoneNumber = phoneNumber.Replace("9", "2574");
-
+            
 
 
 
@@ -54,6 +54,7 @@
 
             String userName = fullName.Insert(0, "@");
             userName = userName.Insert(8, "-");
+            userName = userName.Insert(2, "$");
             Console.WriteLine($"UserName:{userName}");
 
             String firstName = fullName.Substring(0, 7);
