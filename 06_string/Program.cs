@@ -56,6 +56,7 @@
             userName = userName.Insert(8, "-");
             userName = userName.Insert(2, "$");
             userName = userName.Insert(3, "!");
+            userName = userName.Insert(4, "&");
             Console.WriteLine($"UserName:{userName}");
 
             String firstName = fullName.Substring(0, 7);
